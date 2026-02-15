@@ -266,6 +266,11 @@ span{
         box-shadow: 10px 10px 20px 0 rgba(0, 0, 0, 0.705);
         transition: transform 0.8s;
     }
+    a{
+        text-decoration: none;
+        text-transform: uppercase;
+        color: rgb(77, 28, 28);
+    }
 
     .card:hover{
         transform: scale(1.05);
